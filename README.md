@@ -1,6 +1,8 @@
 # BillingApp# How to make this orquestration
+Amilcar Rodriguez
+
 Diagram:
-![microservice-app-example](/BillingApp/images/diagram.png)
+![microservice-app-example](/images/diagram.png)
 
 1. Check minikube docker  en 
 ```sh
